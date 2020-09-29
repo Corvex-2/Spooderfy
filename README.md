@@ -21,6 +21,10 @@ Usage:
 
 Now that the setup is complete you can begin to use Spooderfy. all you now have to do, is to check the "Show Permanent Toast" checkbox. Spooderfy now creates a PNG-Image inside the DATA Directory, called StreamImage.png, add this as an Image Source inside your streaming application and profit!
 
+# MAINTENANCE DISCLAIMER
+
+The source code and the project are by far not high quality, it's relatively old and no maintenance work is being done to it. feel free to report features you feel are missing or issues you encounter in the issues section, though it is very unlikely that i'll add feature request or try and remove bugs at this point.
+
 # DEPENDENCIES
 - EmbedIO, version="2.9.2" targetFramework=net472
 - Newtonsoft.Json version="12.0.3" targetFramework=net472
