@@ -23,7 +23,7 @@ Now that the setup is complete you can begin to use Spooderfy. all you now have 
 
 # MAINTENANCE DISCLAIMER
 
-The source code and the project are by far not high quality, it's relatively old and no maintenance work is being done to it. feel free to report features you feel are missing or issues you encounter in the issues section, though it is very unlikely that i'll add feature request or try and remove bugs at this point.
+The source code and the project are by far not high quality, it's relatively old and no maintenance work is being done to it. feel free to report features you feel are missing or issues you encounter in the issues section, though it is very unlikely that i'll add features requested or remove any bugs.
 
 # DEPENDENCIES
 - EmbedIO, version="2.9.2" targetFramework=net472
