@@ -56,8 +56,8 @@
                 <CheckBox Content="Show Permanent Toast" HorizontalAlignment="Left" Margin="399,47,0,0" VerticalAlignment="Top" Grid.Column="1" FontFamily="Arial Rounded MT Bold" Checked="CheckBox_Checked" Unchecked="CheckBox_Unchecked"/>
                 <Button Visibility="Hidden" x:Name="DebugBtn" Content="Debug" Grid.Column="1" HorizontalAlignment="Left" Margin="237,10,0,0" VerticalAlignment="Top" Width="75" Click="DebugBtn_Click"/>
                 <Button Visibility="Hidden" x:Name="debug" Content="Debug" Grid.Column="1" HorizontalAlignment="Left" Margin="213,15,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_1"/>
-                <Slider x:Name="toastwidth" Grid.Column="1" HorizontalAlignment="Left" Margin="294,47,0,0" VerticalAlignment="Top" Width="100" Maximum="480" TickFrequency="0" ValueChanged="Slider_ValueChanged" Value="265"/>
-                <CheckBox x:Name="editingMode" Content="Editing Mode" HorizontalAlignment="Left" Margin="139,47,0,0" VerticalAlignment="Top" Grid.Column="1" FontFamily="Arial Rounded MT Bold" Checked="editingMode_Checked" Unchecked="editingMode_Unchecked"/>
+                <Slider x:Name="toastwidth" Grid.Column="1" HorizontalAlignment="Left" Margin="294,47,0,0" VerticalAlignment="Top" Width="100" Maximum="480" Visibility="Hidden" TickFrequency="0" ValueChanged="Slider_ValueChanged" Value="265"/>
+                <CheckBox x:Name="editingMode" Content="Resize Mode" HorizontalAlignment="Left" Margin="399,31,0,0" VerticalAlignment="Top" Grid.Column="1" FontFamily="Arial Rounded MT Bold" Checked="editingMode_Checked" Unchecked="editingMode_Unchecked"/>
 
             </Grid>
         </Border>
