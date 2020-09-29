@@ -25,3 +25,10 @@ Now that the setup is complete you can begin to use Spooderfy. all you now have 
 This source code is published and licensed under the GPLv3 licensing agreement.
 The SUK IT school group reserves itself the right to change the licensing agreement at anytime, and without further notice.
 More information about the GPLv3 licensing agreement can be found here: https://github.com/Kayory/Spooderfy/blob/master/GPLv3.license
+
+# DEPENDENCIES
+EmbedIO, version="2.9.2" targetFramework=net472
+Newtonsoft.Json version="12.0.3" targetFramework=net472
+SpotifyAPI.Web version="4.2.2" targetFramework=net472
+SpotifyAPI.Web.Auth version="4.2.2" targetFramework=net472
+Unosquare.Swan.Lite version="1.3.1" targetFramework=net472
