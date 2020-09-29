@@ -9,7 +9,7 @@ Open https://developer.spotify.com/dashboard/ and log in.
 Click "Create An App" and create an App. the name and the description doesn't matter.
 Click "Edit Settings" and type the following into the field "Redirect URIs" and Click Save
  - https://localhost:8888/
- Note: you can use any port you want, as long as it isn't used.
+Note: you can use any port you want, as long as it isn't used.
 
 Now we go to Spooderfy and enter the Redirect URI from earlier.
 Now you enter the Client ID that is shown in the Spotify Dashboard into Spooderfy.
