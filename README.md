@@ -34,5 +34,5 @@ The source code and the project are by far not high quality, it's relatively old
 
 # COPYRIGHT
 This source code is published and licensed under the GPLv3 licensing agreement.
-The SUK IT school group reserves itself the right to change the licensing agreement at anytime, and without further notice.
+i reserves myself the right to change the licensing agreement at anytime, and without further notice.
 More information about the GPLv3 licensing agreement can be found here: https://github.com/Kayory/Spooderfy/blob/master/GPLv3.license
